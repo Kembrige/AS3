@@ -1,0 +1,15 @@
+C:\Users\Kembrige\source\repos\AS3\AS3\bin\Debug\net7.0\AS3.exe
+C:\Users\Kembrige\source\repos\AS3\AS3\bin\Debug\net7.0\AS3.deps.json
+C:\Users\Kembrige\source\repos\AS3\AS3\bin\Debug\net7.0\AS3.runtimeconfig.json
+C:\Users\Kembrige\source\repos\AS3\AS3\bin\Debug\net7.0\AS3.dll
+C:\Users\Kembrige\source\repos\AS3\AS3\bin\Debug\net7.0\AS3.pdb
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\AS3.csproj.AssemblyReference.cache
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\AS3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\AS3.AssemblyInfoInputs.cache
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\AS3.AssemblyInfo.cs
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\AS3.csproj.CoreCompileInputs.cache
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\AS3.dll
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\refint\AS3.dll
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\AS3.pdb
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\AS3.genruntimeconfig.cache
+C:\Users\Kembrige\source\repos\AS3\AS3\obj\Debug\net7.0\ref\AS3.dll
